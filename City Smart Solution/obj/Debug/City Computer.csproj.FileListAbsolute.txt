@@ -1,0 +1,57 @@
+c:\users\muhammad asif\documents\visual studio 2013\Projects\City Computer\City Computer\bin\Debug\City Computer.exe.config
+c:\users\muhammad asif\documents\visual studio 2013\Projects\City Computer\City Computer\bin\Debug\City Computer.exe
+c:\users\muhammad asif\documents\visual studio 2013\Projects\City Computer\City Computer\bin\Debug\City Computer.pdb
+c:\users\muhammad asif\documents\visual studio 2013\Projects\City Computer\City Computer\obj\Debug\City Computer.csprojResolveAssemblyReference.cache
+c:\users\muhammad asif\documents\visual studio 2013\Projects\City Computer\City Computer\obj\Debug\City_Computer.Properties.Resources.resources
+c:\users\muhammad asif\documents\visual studio 2013\Projects\City Computer\City Computer\obj\Debug\City Computer.csproj.GenerateResource.Cache
+c:\users\muhammad asif\documents\visual studio 2013\Projects\City Computer\City Computer\obj\Debug\City Computer.exe
+c:\users\muhammad asif\documents\visual studio 2013\Projects\City Computer\City Computer\obj\Debug\City Computer.pdb
+c:\users\muhammad asif\documents\visual studio 2013\Projects\City Computer\City Computer\obj\Debug\City_Computer.Loginnow.resources
+c:\users\muhammad asif\documents\visual studio 2013\Projects\City Computer\City Computer\obj\Debug\City_Computer.Adminlogin.resources
+c:\users\muhammad asif\documents\visual studio 2013\Projects\City Computer\City Computer\obj\Debug\City_Computer.Userlogin.resources
+c:\users\muhammad asif\documents\visual studio 2013\Projects\City Computer\City Computer\obj\Debug\City_Computer.Main.resources
+c:\users\muhammad asif\documents\visual studio 2013\Projects\City Computer\City Computer\obj\Debug\City_Computer.Changepassword.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2013\Projects\City Computer\City Computer\obj\Debug\City_Computer.add_data.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2013\Projects\City Computer\City Computer\obj\Debug\City_Computer.splach.resources
+E:\Project\City Computer\City Computer\bin\Debug\City Computer.exe.config
+E:\Project\City Computer\City Computer\obj\Debug\City Computer.exe
+E:\Project\City Computer\City Computer\obj\Debug\City Computer.pdb
+E:\Project\City Computer\City Computer\bin\Debug\City Computer.exe
+E:\Project\City Computer\City Computer\bin\Debug\City Computer.pdb
+E:\Project\City Computer\City Computer\obj\Debug\City Computer.csprojResolveAssemblyReference.cache
+E:\Project\City Computer\City Computer\obj\Debug\City_Computer.Adminlogin.resources
+E:\Project\City Computer\City Computer\obj\Debug\City_Computer.Changepassword.resources
+E:\Project\City Computer\City Computer\obj\Debug\City_Computer.Loginnow.resources
+E:\Project\City Computer\City Computer\obj\Debug\City_Computer.Main.resources
+E:\Project\City Computer\City Computer\obj\Debug\City_Computer.Properties.Resources.resources
+E:\Project\City Computer\City Computer\obj\Debug\City_Computer.splach.resources
+E:\Project\City Computer\City Computer\obj\Debug\City_Computer.Userlogin.resources
+E:\Project\City Computer\City Computer\obj\Debug\City Computer.csproj.GenerateResource.Cache
+E:\Project\City Computer\City Computer\obj\Debug\City_Computer.customer.resources
+E:\Project\City Computer\City Computer\obj\Debug\City_Computer.Employee_record.resources
+E:\Project\City Computer\City Computer\obj\Debug\City_Computer.Employee.resources
+E:\Project\City Computer\City Computer\obj\Debug\City_Computer.sale_product_record.resources
+E:\Project\City Computer\City Computer\obj\Debug\City_Computer.stockentry.resources
+E:\Project\City Computer\City Computer\obj\Debug\City_Computer.stockview.resources
+E:\Project\City Computer\City Computer\bin\Debug\Oracle.DataAccess.dll
+E:\Project\City Computer\City Computer\bin\Debug\Oracle.Web.dll
+E:\project 2\City Computer\City Computer\bin\Debug\City Computer.exe.config
+E:\project 2\City Computer\City Computer\obj\Debug\City Computer.exe
+E:\project 2\City Computer\City Computer\obj\Debug\City Computer.pdb
+E:\project 2\City Computer\City Computer\bin\Debug\City Computer.exe
+E:\project 2\City Computer\City Computer\bin\Debug\City Computer.pdb
+E:\project 2\City Computer\City Computer\obj\Debug\City Computer.csprojResolveAssemblyReference.cache
+E:\project 2\City Computer\City Computer\obj\Debug\City_Computer.Adminlogin.resources
+E:\project 2\City Computer\City Computer\obj\Debug\City_Computer.Changepassword.resources
+E:\project 2\City Computer\City Computer\obj\Debug\City_Computer.customer.resources
+E:\project 2\City Computer\City Computer\obj\Debug\City_Computer.Employee_record.resources
+E:\project 2\City Computer\City Computer\obj\Debug\City_Computer.Employee.resources
+E:\project 2\City Computer\City Computer\obj\Debug\City_Computer.Loginnow.resources
+E:\project 2\City Computer\City Computer\obj\Debug\City_Computer.Main.resources
+E:\project 2\City Computer\City Computer\obj\Debug\City_Computer.Properties.Resources.resources
+E:\project 2\City Computer\City Computer\obj\Debug\City_Computer.sale_product_record.resources
+E:\project 2\City Computer\City Computer\obj\Debug\City_Computer.splach.resources
+E:\project 2\City Computer\City Computer\obj\Debug\City_Computer.stockentry.resources
+E:\project 2\City Computer\City Computer\obj\Debug\City_Computer.stockview.resources
+E:\project 2\City Computer\City Computer\obj\Debug\City_Computer.Userlogin.resources
+E:\project 2\City Computer\City Computer\obj\Debug\City Computer.csproj.GenerateResource.Cache

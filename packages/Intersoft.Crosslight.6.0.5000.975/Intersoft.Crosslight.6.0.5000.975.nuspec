@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Intersoft.Crosslight</id>
+    <version>6.0.5000.975</version>
+    <title>Intersoft Crosslight</title>
+    <authors>Intersoft Solutions</authors>
+    <owners>Intersoft Solutions</owners>
+    <licenseUrl>http://www.intersoftsolutions.com/Products/Licensing</licenseUrl>
+    <projectUrl>http://www.intersoftsolutions.com/Crosslight</projectUrl>
+    <iconUrl>http://www.intersoftsolutions.com/assets/images/default/logo-crosslight-medium.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Crosslight is an advanced development toolset for building rich cross-platform mobile applications with 100% shared UI logic. Supported platforms include iOS, Android, and Windows.</description>
+    <copyright>Copyright © 2016 Intersoft Solutions</copyright>
+    <tags>Intersoft Crosslight MVVM iOS Android WindowsPhone WinPhone Windows Xamarin Cross-Platform Mobile</tags>
+  </metadata>
+</package>

@@ -1,0 +1,70 @@
+E:\project 2\City Smart Solution\City Smart Solution\bin\Debug\City Computer.exe.config
+E:\project 2\City Smart Solution\City Smart Solution\obj\Debug\City Computer.exe
+E:\project 2\City Smart Solution\City Smart Solution\obj\Debug\City Computer.pdb
+E:\project 2\City Smart Solution\City Smart Solution\bin\Debug\City Computer.exe
+E:\project 2\City Smart Solution\City Smart Solution\bin\Debug\City Computer.pdb
+E:\project 2\City Smart Solution\City Smart Solution\bin\Debug\Oracle.DataAccess.dll
+E:\project 2\City Smart Solution\City Smart Solution\bin\Debug\Oracle.Web.dll
+E:\project 2\City Smart Solution\City Smart Solution\obj\Debug\City Smart Solution.csprojResolveAssemblyReference.cache
+E:\project 2\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.Adminlogin.resources
+E:\project 2\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.Changepassword.resources
+E:\project 2\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.customer.resources
+E:\project 2\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.Employee_record.resources
+E:\project 2\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.Employee.resources
+E:\project 2\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.Loginnow.resources
+E:\project 2\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.Main.resources
+E:\project 2\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.Properties.Resources.resources
+E:\project 2\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.sale_product_record.resources
+E:\project 2\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.splach.resources
+E:\project 2\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.stockentry.resources
+E:\project 2\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.stockview.resources
+E:\project 2\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.Userlogin.resources
+E:\project 2\City Smart Solution\City Smart Solution\obj\Debug\City Smart Solution.csproj.GenerateResource.Cache
+E:\project 2\City Smart Solution\City Smart Solution\obj\Debug\Interop.OLEDBError.dll
+E:\project 2\City Smart Solution\City Smart Solution\obj\Debug\City Smart Solution.csproj.ResolveComReference.cache
+E:\project 2\City Smart Solution\City Smart Solution\bin\Debug\Intersoft.Crosslight.dll
+E:\project 2\City Smart Solution\City Smart Solution\bin\Debug\Intersoft.Crosslight.Services.Barcode.dll
+E:\project 2\City Smart Solution\City Smart Solution\bin\Debug\IronBarCode.dll
+E:\project 2\City Smart Solution\City Smart Solution\bin\Debug\MessagingToolkit.Barcode.dll
+E:\project 2\City Smart Solution\City Smart Solution\bin\Debug\Spire.Barcode.dll
+E:\project 2\City Smart Solution\City Smart Solution\bin\Debug\Spire.License.dll
+E:\project 2\City Smart Solution\City Smart Solution\bin\Debug\Zen.Barcode.Core.dll
+E:\project 2\City Smart Solution\City Smart Solution\bin\Debug\IronBarCode.xml
+E:\project 2\City Smart Solution\City Smart Solution\bin\Debug\Spire.Barcode.xml
+E:\project 2\City Smart Solution\City Smart Solution\bin\Debug\Spire.License.xml
+E:\project 2\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.gerneratebarcode.resources
+E:\c#\City Smart Solution\City Smart Solution\bin\Debug\City Computer.exe.config
+E:\c#\City Smart Solution\City Smart Solution\obj\Debug\Interop.OLEDBError.dll
+E:\c#\City Smart Solution\City Smart Solution\obj\Debug\City Smart Solution.csproj.ResolveComReference.cache
+E:\c#\City Smart Solution\City Smart Solution\obj\Debug\City Computer.exe
+E:\c#\City Smart Solution\City Smart Solution\obj\Debug\City Computer.pdb
+E:\c#\City Smart Solution\City Smart Solution\bin\Debug\City Computer.exe
+E:\c#\City Smart Solution\City Smart Solution\bin\Debug\City Computer.pdb
+E:\c#\City Smart Solution\City Smart Solution\bin\Debug\Intersoft.Crosslight.dll
+E:\c#\City Smart Solution\City Smart Solution\bin\Debug\Intersoft.Crosslight.Services.Barcode.dll
+E:\c#\City Smart Solution\City Smart Solution\bin\Debug\IronBarCode.dll
+E:\c#\City Smart Solution\City Smart Solution\bin\Debug\MessagingToolkit.Barcode.dll
+E:\c#\City Smart Solution\City Smart Solution\bin\Debug\Oracle.DataAccess.dll
+E:\c#\City Smart Solution\City Smart Solution\bin\Debug\Oracle.Web.dll
+E:\c#\City Smart Solution\City Smart Solution\bin\Debug\Spire.Barcode.dll
+E:\c#\City Smart Solution\City Smart Solution\bin\Debug\Spire.License.dll
+E:\c#\City Smart Solution\City Smart Solution\bin\Debug\Zen.Barcode.Core.dll
+E:\c#\City Smart Solution\City Smart Solution\bin\Debug\IronBarCode.xml
+E:\c#\City Smart Solution\City Smart Solution\bin\Debug\Spire.Barcode.xml
+E:\c#\City Smart Solution\City Smart Solution\bin\Debug\Spire.License.xml
+E:\c#\City Smart Solution\City Smart Solution\obj\Debug\City Smart Solution.csprojResolveAssemblyReference.cache
+E:\c#\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.Adminlogin.resources
+E:\c#\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.Changepassword.resources
+E:\c#\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.customer.resources
+E:\c#\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.Employee_record.resources
+E:\c#\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.Employee.resources
+E:\c#\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.gerneratebarcode.resources
+E:\c#\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.Loginnow.resources
+E:\c#\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.Main.resources
+E:\c#\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.Properties.Resources.resources
+E:\c#\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.sale_product_record.resources
+E:\c#\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.splach.resources
+E:\c#\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.stockentry.resources
+E:\c#\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.stockview.resources
+E:\c#\City Smart Solution\City Smart Solution\obj\Debug\City_Smart_Solution.Userlogin.resources
+E:\c#\City Smart Solution\City Smart Solution\obj\Debug\City Smart Solution.csproj.GenerateResource.Cache

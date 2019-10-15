@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Intersoft.Crosslight.Services.Barcode</id>
+    <version>6.0.5000.975</version>
+    <title>Intersoft Crosslight Services Barcode</title>
+    <authors>Intersoft Solutions</authors>
+    <owners>Intersoft Solutions</owners>
+    <licenseUrl>http://www.intersoftsolutions.com/Products/Licensing</licenseUrl>
+    <projectUrl>http://www.intersoftsolutions.com/Crosslight</projectUrl>
+    <iconUrl>http://www.intersoftsolutions.com/assets/images/default/logo-crosslight-medium.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provides barcode scanning capabilities to your Crosslight apps.</description>
+    <summary />
+    <releaseNotes />
+    <copyright>Copyright © 2016 Intersoft Solutions</copyright>
+    <tags>Intersoft Crosslight Services Barcode Scanner Reader Cross-Platform PCL Portable Class Library iOS Android Xamarin</tags>
+    <dependencies>
+      <dependency id="Intersoft.Crosslight" version="6.0.5000.975" />
+    </dependencies>
+  </metadata>
+</package>
